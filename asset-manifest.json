@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hyphena/react-course/static/css/main.e262c198.css",
-    "main.js": "/hyphena/react-course/static/js/main.fd053bac.js",
-    "static/media/book-2.jpg": "/hyphena/react-course/static/media/book-2.8f6e0fa5ee20bc002bb7.jpg",
-    "static/media/book-3.jpg": "/hyphena/react-course/static/media/book-3.5a0b79cfdd697d33cc9d.jpg",
-    "static/media/book-1.jpg": "/hyphena/react-course/static/media/book-1.2565b84dc4e32f589968.jpg",
-    "index.html": "/hyphena/react-course/index.html",
-    "main.e262c198.css.map": "/hyphena/react-course/static/css/main.e262c198.css.map",
-    "main.fd053bac.js.map": "/hyphena/react-course/static/js/main.fd053bac.js.map"
+    "main.css": "/react-course/static/css/main.e262c198.css",
+    "main.js": "/react-course/static/js/main.d5ab44af.js",
+    "static/media/book-2.jpg": "/react-course/static/media/book-2.8f6e0fa5ee20bc002bb7.jpg",
+    "static/media/book-3.jpg": "/react-course/static/media/book-3.5a0b79cfdd697d33cc9d.jpg",
+    "static/media/book-1.jpg": "/react-course/static/media/book-1.2565b84dc4e32f589968.jpg",
+    "index.html": "/react-course/index.html",
+    "main.e262c198.css.map": "/react-course/static/css/main.e262c198.css.map",
+    "main.d5ab44af.js.map": "/react-course/static/js/main.d5ab44af.js.map"
   },
   "entrypoints": [
     "static/css/main.e262c198.css",
-    "static/js/main.fd053bac.js"
+    "static/js/main.d5ab44af.js"
   ]
 }
